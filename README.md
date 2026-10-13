@@ -83,11 +83,6 @@ The notebook ends with the measure specification, a data dictionary, a model car
 - **Statistics:** Wilson confidence intervals, two-proportion z-test, chi-square test, logistic regression, bootstrap confidence intervals, permutation importance
 - **Modeling:** deep ensembles, probability calibration, subgroup fairness auditing
 
-## How to run
-
-1. Open the notebook in [Google Colab](https://colab.research.google.com) (**File → Upload notebook**).
-2. Click **Runtime → Run all**. No installs are needed.
-3. Download the `PIC` folder from the Files panel if you want the figures.
 
 The random seeds are fixed, so the measure results reproduce exactly. The neural-network results can differ slightly, especially on GPU.
 
